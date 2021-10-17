@@ -10,3 +10,7 @@ https://labs.cognitiveclass.ai/tools/datasette/?datasette_path=%2F-%2Fadd-datase
 
 Lab-3(INSERT,UPDATE,DELETE)
 https://labs.cognitiveclass.ai/tools/datasette/?datasette_path=%2F-%2Fadd-datasets%2F%3Fpath%3D%2Fresources%2Fdatasette%2Fcoursera%2FDB0201EN%2Flab3%2FInstructors.db&md_instructions_url=https%3A%2F%2Fcf-courses-data.s3.us.cloud-object-storage.appdomain.cloud%2FIBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork%2Flabs%2FLabs_Coursera_V5%2Flabs%2FLab%2520-%2520INSERT%2520-%2520UPDATE%2520-%2520DELETE%2Finstructional-labs.md&lti=true
+
+
+Lab-4
+https://bs2ipcul0apon0jufi80lite.db2.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Adashdb-for-transactions%3Aeu-gb%3Aa%2F80ca5276afc44f62afd1d1573b1acd1c%3A5feb0575-d370-4b45-8e7d-ccb453313f46%3A%3A/console/index.html#sql/editor
