@@ -6,3 +6,7 @@ https://labs.cognitiveclass.ai/tools/datasette/?datasette_path=%2F-%2Fadd-datase
 
 Lab-2(COUNT,DISTINCT,LIMIT)
 https://labs.cognitiveclass.ai/tools/datasette/?datasette_path=%2F-%2Fadd-datasets%2F%3Fpath%3D%2Fresources%2Fdatasette%2Fcoursera%2FDB0201EN%2Flab2%2FSanFranciscoFilmLocations.sqlite&md_instructions_url=https%3A%2F%2Fcf-courses-data.s3.us.cloud-object-storage.appdomain.cloud%2FIBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork%2Flabs%2FLabs_Coursera_V5%2Flabs%2FLab%2520-%2520COUNT%2520-%2520DISTINCT%2520-%2520LIMIT%2Finstructional-labs.md&lti=true
+
+
+Lab-3(INSERT,UPDATE,DELETE)
+https://labs.cognitiveclass.ai/tools/datasette/?datasette_path=%2F-%2Fadd-datasets%2F%3Fpath%3D%2Fresources%2Fdatasette%2Fcoursera%2FDB0201EN%2Flab3%2FInstructors.db&md_instructions_url=https%3A%2F%2Fcf-courses-data.s3.us.cloud-object-storage.appdomain.cloud%2FIBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork%2Flabs%2FLabs_Coursera_V5%2Flabs%2FLab%2520-%2520INSERT%2520-%2520UPDATE%2520-%2520DELETE%2Finstructional-labs.md&lti=true
