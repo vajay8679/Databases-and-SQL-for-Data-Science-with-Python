@@ -14,3 +14,8 @@ https://labs.cognitiveclass.ai/tools/datasette/?datasette_path=%2F-%2Fadd-datase
 
 Lab-4
 https://bs2ipcul0apon0jufi80lite.db2.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Adashdb-for-transactions%3Aeu-gb%3Aa%2F80ca5276afc44f62afd1d1573b1acd1c%3A5feb0575-d370-4b45-8e7d-ccb453313f46%3A%3A/console/index.html#sql/editor
+
+
+
+LAB-5
+https://bs2ipcul0apon0jufi80lite.db2.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Adashdb-for-transactions%3Aeu-gb%3Aa%2F80ca5276afc44f62afd1d1573b1acd1c%3A5feb0575-d370-4b45-8e7d-ccb453313f46%3A%3A/console/index.html#sql/editor
