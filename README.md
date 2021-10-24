@@ -25,3 +25,10 @@ Lab-6
 https://www.coursera.org/learn/sql-data-science/ungradedWidget/C4ALg/hands-on-lab-working-with-multiple-tables
 
 https://bs2ipcul0apon0jufi80lite.db2.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Adashdb-for-transactions%3Aeu-gb%3Aa%2F80ca5276afc44f62afd1d1573b1acd1c%3A5feb0575-d370-4b45-8e7d-ccb453313f46%3A%3A/console/index.html#sql/editor
+
+
+
+lab-7(database-connection)
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-1-Connecting-v4-py.ipynb?lti=true
+
+http://localhost:8888/lab/tree/Data%20Science/python-project/database-connection-ibm_db.ipynb
