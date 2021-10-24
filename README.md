@@ -38,3 +38,10 @@ http://localhost:8888/lab/tree/Data%20Science/python-project/database-connection
 lab-8(truck.ipy)
 
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-2-Querying-v4-py.ipynb?lti=true
+
+
+Lab-8(%,%%)
+
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-3-SQLmagic-v3-py.ipynb?lti=true
+
+http://localhost:8888/lab/tree/Data%20Science/python-project/assesing-database-sql.ipynb
