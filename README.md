@@ -32,3 +32,9 @@ lab-7(database-connection)
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-1-Connecting-v4-py.ipynb?lti=true
 
 http://localhost:8888/lab/tree/Data%20Science/python-project/database-connection-ibm_db.ipynb
+
+
+
+lab-8(truck.ipy)
+
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-2-Querying-v4-py.ipynb?lti=true
