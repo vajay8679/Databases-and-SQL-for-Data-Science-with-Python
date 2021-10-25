@@ -45,3 +45,10 @@ Lab-8(%,%%)
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-3-SQLmagic-v3-py.ipynb?lti=true
 
 http://localhost:8888/lab/tree/Data%20Science/python-project/assesing-database-sql.ipynb
+
+
+Lab-9
+
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb?lti=true
+
+http://localhost:8888/lab/tree/Data%20Science/python-project/assesing-data-canada-data.ipynb
