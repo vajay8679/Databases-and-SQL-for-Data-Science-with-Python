@@ -56,3 +56,6 @@ http://localhost:8888/lab/tree/Data%20Science/python-project/assesing-data-canad
 https://jovian.ai/omprakashp014909/working-with-real-world-datasets-using-sql-python-and-ibm-bd2-on-cloud/v/3
 
 https://jovian.ai/omprakashp014909/working-with-real-world-datasets-using-sql-python-and-ibm-bd2-on-cloud
+
+
+https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2/data
