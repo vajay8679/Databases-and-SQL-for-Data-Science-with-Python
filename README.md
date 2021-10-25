@@ -54,3 +54,5 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-
 http://localhost:8888/lab/tree/Data%20Science/python-project/assesing-data-canada-data.ipynb
 
 https://jovian.ai/omprakashp014909/working-with-real-world-datasets-using-sql-python-and-ibm-bd2-on-cloud/v/3
+
+https://jovian.ai/omprakashp014909/working-with-real-world-datasets-using-sql-python-and-ibm-bd2-on-cloud
