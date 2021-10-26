@@ -59,3 +59,9 @@ https://jovian.ai/omprakashp014909/working-with-real-world-datasets-using-sql-py
 
 
 https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2/data
+
+Lab-10
+
+http://localhost:8888/lab/tree/Data%20Science/python-project/SCHOOLS.ipynb
+
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week4-1-1-RealDataPractice-v5.ipynb?lti=true
