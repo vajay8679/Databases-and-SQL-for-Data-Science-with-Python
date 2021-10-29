@@ -65,3 +65,7 @@ Lab-10
 http://localhost:8888/lab/tree/Data%20Science/python-project/SCHOOLS.ipynb
 
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-Week4-1-1-RealDataPractice-v5.ipynb?lti=true
+
+
+LAB-11
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/DB0201EN/DB0201EN-PeerAssign-v5.ipynb?lti=true
